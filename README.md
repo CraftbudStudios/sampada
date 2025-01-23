@@ -2,9 +2,10 @@
 
 
 ## Exposed Keys Exposed
+# 
+    cat privkey.pem
 
 ```
-$ cat privkey.pem
 -----BEGIN ENCRYPTED PRIVATE KEY-----
 MIIFHzBJBgkqhkiG9w0BBQ0wPDAbBgkqhkiG9w0BBQwwDgQIc2H4GvZuEVMCAggA
 MB0GCWCGSAFlAwQBKgQQ9Kw+XgzsGnGNAQPLfd7TdASCBNB9rOfOs8GwNUM++AJI
@@ -37,8 +38,10 @@ kFtUTg+C6T2n6aA+1PyAqZFGWg==
 -----END ENCRYPTED PRIVATE KEY-----
 ```
 
+#
+    cat ca.key
+
 ```
-$ cat ca.key
 -----BEGIN ENCRYPTED PRIVATE KEY-----
 MIIFHzBJBgkqhkiG9w0BBQ0wPDAbBgkqhkiG9w0BBQwwDgQI2Oztia9C878CAggA
 MB0GCWCGSAFlAwQBKgQQn0XRQ3hLJYP5OIG+mwgvTASCBNCOVDtPk3/HXr4uvGzS

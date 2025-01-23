@@ -3,7 +3,7 @@
 
 ## Exposed Keys Exposed
 # 
-    cat privkey.pem
+    $ cat privkey.pem
 
 ```
 -----BEGIN ENCRYPTED PRIVATE KEY-----
@@ -39,7 +39,7 @@ kFtUTg+C6T2n6aA+1PyAqZFGWg==
 ```
 
 #
-    cat ca.key
+    $ cat ca.key
 
 ```
 -----BEGIN ENCRYPTED PRIVATE KEY-----

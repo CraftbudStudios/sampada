@@ -1,7 +1,7 @@
 # sampada
 
 
-## Exposed Keys Exposed
+## Encrypted Keys Exposed
 # 
     $ cat privkey.pem
 

@@ -94,4 +94,5 @@ OOn+VbNE/gGIHd7iF1jniFosjw==
         INI_DEFAULT_USER_NAME           = "default",
         INI_DEFAULT_USER_PWD            = "tluafed",
 ...
+Secret_Resetpwd_Pubver = "17091500",
 ```
